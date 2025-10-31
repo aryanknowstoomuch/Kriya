@@ -1,4 +1,4 @@
-# To-Do List (Vanilla JS)
+# To-Do List 
 
 A simple, responsive to-do list web app built with plain HTML, CSS, and JavaScript. Tasks can be added, checked off, removed, and are automatically saved to your browser's localStorage.
 
